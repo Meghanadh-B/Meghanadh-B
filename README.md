@@ -20,9 +20,7 @@ As I navigate through my final year, I’m immersing myself in various subjects.
      Comfortable with SQLite for local storage.
 * #### Cloud:
      I’ve dipped my toes into Microsoft Azure fundamentals have been my companions.
-## Badges
 
-![meg badge](https://github.com/user-attachments/assets/b6318712-4b21-4dcd-a6e4-31bbf8ffb426)
 
 ## Collaboration 🤝
 Collaboration fuels innovation! I’m all ears for exciting projects and ideas. Whether it’s building a sleek portfolio site, contributing to an open-source project, or brainstorming creative web solutions, count me in! Let’s code together and create something remarkable.🚀
